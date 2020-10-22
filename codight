@@ -1,14 +1,14 @@
 print("Title of program: Personality test")
 print()
 print("Welcome to my little quiz! Please answer the following questions truthfully and we'll analyse your personality for you!")
-print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
+print("Please respond with a number from 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
 tech1 = input("I am a bubbly and cheerful person.")
 
-outdoor1 = input("I play at least 1 musical instrument.")
+outdoor1 = input("I love to help people in need.")
 
-music1 = input("I love to help people in need.")
+music1 = input("I play at least 1 musical instrument.")
 
 tech2 = input("I am a good listening ear.")
 
