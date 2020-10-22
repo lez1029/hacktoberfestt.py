@@ -4,7 +4,7 @@ print("Welcome to my little quiz! Please answer the following questions truthful
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
-tech1 = input("I am a bubbly person.")
+tech1 = input("I am a bubbly and cheerful person.")
 
 outdoor1 = input("I play at least 1 musical instrument.")
 
