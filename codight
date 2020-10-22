@@ -6,9 +6,9 @@ print()
 
 tech1 = input("I am a bubbly and cheerful person.")
 
-outdoor1 = input("I play at least 1 musical instrument.")
+outdoor1 = input("I love sunshine and being outdoors")
 
-music1 = input("I love to help people in need.")
+music1 = input("I play at least 1 musical instrument.")
 
 tech2 = input("I am a good listening ear.")
 
