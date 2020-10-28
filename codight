@@ -4,7 +4,7 @@ print("Welcome to my little quiz! Please answer the following questions truthful
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
-tech1 = input("I am a bubbly and cheerful person.")
+tech1 = input("I like being a browser for free cookies")
 
 outdoor1 = input("I love sunshine and being outdoors")
 
@@ -24,7 +24,7 @@ music_final = int(music1)+ int(music2)
 print()
 
 if tech_final > outdoor_final and tech_final > music_final:
- print("You have an interesting personality! Your peers must like you a lot! ")
+ print("I phone, you tube HAHA You have an interesting personality! Your peers must like you a lot! ")
 elif outdoor_final > music_final:
  print("You have an interesting personality! Your peers must enjoy your company!")
 else:
