@@ -4,11 +4,11 @@ print("Welcome to my little quiz! Please answer the following questions truthful
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
-tech1 = input("I like being a browser for free cookies")
+tech1 = input("I like being a browser for free cookies. (Tech stuff")
 
 outdoor1 = input("I love sunshine and being outdoors")
 
-music1 = input("I play at least 1 musical instrument.")
+music1 = input("I play at least 1 musical instrument. Why did the pianist keep banging his head against the keys? He was playing by ear. ")
 
 tech2 = input("I am a good listening ear.")
 
